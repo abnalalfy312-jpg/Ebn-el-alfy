@@ -1,0 +1,6 @@
+{
+  "name": "نور الصباح",
+  "description": "تطبيق إسلامي فريد يحتوي على مؤقت الأذان حسب منطقتك، مذكر الأذكار اليومية، والسبحة الإلكترونية المطورة بأسلوب ميريال 3 الأنيق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
